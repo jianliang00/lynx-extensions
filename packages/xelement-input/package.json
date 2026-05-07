@@ -1,6 +1,6 @@
 {
   "name": "@lynx-extensions/xelement-input",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lynx XElement input and textarea NativeUI extension for Sparkling autolink.",
   "type": "module",
   "license": "Apache-2.0",
@@ -27,4 +27,3 @@
     "xelement"
   ]
 }
-
